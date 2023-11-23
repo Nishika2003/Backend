@@ -66,17 +66,6 @@ module.exports = {
       description: 'Luna is a very good, loyal animal, you want to keep in your house',
       button: 'Adopt'
     },
-    {
-      _id: '7',
-      name: 'Luna',
-      category:'Other',
-      image: '/images/d6.jpeg',
-      color: 'Golden Brown & White',
-      breed: 'Syrian Hamster',
-      age: '10 months',
-      description: 'Luna is a very good, loyal animal, you want to keep in your house',
-      button: 'Adopt'
-    },
   ]
    
   
